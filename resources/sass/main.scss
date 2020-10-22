@@ -1,0 +1,29 @@
+// *-------- Varialbes ----------------- * //
+
+$color-primary: #e68c51;
+$color-secondary: #2a405e;
+$color-white: #ffffff;
+$color-background: #292d33;
+
+// *-------- Base Reseting  ----------------- * //
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: $color-white;
+  min-height: 100vh;
+}
+
+// *-------- Home Page ----------------- * //
+
+// *-------- Typography ----------------- * //
